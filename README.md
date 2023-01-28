@@ -19,12 +19,12 @@ non-Vine reviews:
 
 Of the 40,565 total reviews, 94 (0.2%) were Vine reviews.
 
-###Question 2: How many of each type of review were 5 stars?
+### Question 2: How many of each type of review were 5 stars?
 
 Vine review summary:
 
-![Vine Review Summary](/Resources/paid_review_summary.PNG)
+![Vine Review Summary](/Resources/paid_reviews_summary.PNG)
 
 non-Vine review summary:
 
-![non-Vine Review Summary](/Resources/unpaid_review_summary.png)
+![non-Vine Review Summary](/Resources/unpaid_reviews_summary.png)
