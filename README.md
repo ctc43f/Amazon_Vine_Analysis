@@ -43,3 +43,8 @@ non-Vine review summary:
 
 51% of Vine reviews were 5-star versus 39% of non-Vine reviews being 5-star.  What is even more telling is that only 1% of Vine reviews give a 1-star rating versus 25% of non-Vine reviews.  It implies paid reviewers either are never exposed to bad products OR that they are inclined to never provide any negative feedback.
 
+## Summary
+
+At face value, it does seem that there is inherent bias in the paid reviewers providing higher scores, at least for the video game category I looked at.  However, I wouldn't make those claims with just the above analysis because there might be other unique factors relative to the small group of paid reviews.  For example, if video game companies only did paid reviews for new video games and most of the volume on Amazon was for used video games, quality issues might account for the skew in 5-star percentages.
+
+You might be able to use a weighted average to get the average star rating for each population and then do a two-sample test in R to see if the averages are statistically the same or different.  You might also look at the characteristics of the Vine reviews and see if there is a common or predominant theme (new versus used, specific platform, time range of purchase) and then filter down the non-Vine data and compare percentages again.
