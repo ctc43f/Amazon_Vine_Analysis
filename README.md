@@ -10,8 +10,10 @@ For this analysis, I used the sample data set from Amazon on video games.
 
 ### Question 1: How many Vine and non-Vine reviews were there?
 Vine reviews:
+
 ![Vine Reviews](/Resources/paid_review_count.png)
 
 non-Vine reviews:
+
 ![non-Vine Reviews](/Resources/unpaid_review_count.png)
 
